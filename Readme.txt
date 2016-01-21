@@ -3,4 +3,8 @@ Readme
 Amirs_Cat lives here
 _____________
 
-Please clean tray when it gets dirty
+
+
+Sk3letor:
+
+- Adjust light intensity || smoothness on the mat || normal map amount || color of spec until you get your desired result :-)
